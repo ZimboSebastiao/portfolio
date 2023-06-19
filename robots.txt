@@ -1,0 +1,23 @@
+Sitemap: https://zimbosebastiao.github.io/portfolio//sitemap.xml
+
+# Geral
+User-agent: *
+Disallow: /action
+Disallow: *?*color=*
+Disallow: *?*brand=*
+Disallow: *?*feature=*
+Disallow: *?*attribute=*
+Disallow: *?*price=*
+Disallow: *?*limit=*
+Disallow: *?*sort=*
+Disallow: *?*q=*
+Disallow: *?*variation=*
+
+# Google
+User-agent: Google
+User-agent: Mediapartners-Google
+Allow: 
+User-agent: Adsbot-Google
+Allow: 
+User-agent: Googlebot-Image
+Allow: 
