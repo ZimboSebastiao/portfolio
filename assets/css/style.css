@@ -369,66 +369,22 @@ section {
   margin-bottom: 0;
 }
 
-/*--------------------------------------------------------------
-# Facts
---------------------------------------------------------------*/
-.facts {
-  padding-bottom: 30px;
-}
 
-.facts .count-box {
-  padding: 30px;
-  width: 100%;
-}
-
-.facts .count-box i {
-  display: block;
-  font-size: 44px;
-  color: #149ddd;
-  float: left;
-  line-height: 0;
-}
-
-.facts .count-box span {
-  font-size: 48px;
-  line-height: 40px;
-  display: block;
-  font-weight: 700;
-  color: #050d18;
-  margin-left: 60px;
-}
-
-.facts .count-box p {
-  padding: 15px 0 0 0;
-  margin: 0 0 0 60px;
-  font-family: "Raleway", sans-serif;
-  font-size: 14px;
-  color: #122f57;
-}
-
-.facts .count-box a {
-  font-weight: 600;
-  display: block;
-  margin-top: 20px;
-  color: #122f57;
-  font-size: 15px;
-  font-family: "Poppins", sans-serif;
-  transition: ease-in-out 0.3s;
-}
-
-.facts .count-box a:hover {
-  color: #1f5297;
-}
 
 /*--------------------------------------------------------------
 # Akills
 --------------------------------------------------------------*/
+.tech {background-color: #020c1a;}
+
 .skills .progress {
   height: 60px;
   display: block;
   background: none;
   border-radius: 0;
+  color: #1f5297;
 }
+
+
 
 .skills .progress .skill {
   padding: 0;
@@ -437,7 +393,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #050d18;
+  color: #fff;
 }
 
 .skills .progress .skill .val {
@@ -521,7 +477,7 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
-.portfolio-color {background-color: #216fdd;}
+.portfolio-color {background-color: #020c1a;}
 
 .portfolio .portfolio-item {
   margin-bottom: 30px;
@@ -534,7 +490,7 @@ section {
   text-align: center;
   border-radius: 50px;
   padding: 2px 15px;
-  background-color: #040b14;
+  background-color: #0a274d;
 }
 
 .portfolio #portfolio-flters li {
